@@ -1,0 +1,5 @@
+body{font-family:Arial;text-align:center;}
+.products{display:flex;flex-wrap:wrap;justify-content:center;}
+.product{border:1px solid #ccc;padding:10px;margin:10px;width:200px;}
+input[type="submit"]{padding:5px 10px;background:#8B4513;color:white;border:none;cursor:pointer;}
+input[type="submit"]:hover{background:#A0522D;}
